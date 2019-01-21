@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:18:1-46:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/dylanlin/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/34580a84cfe90309a4a9970b180c984f/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:18:1-46:12
+	package
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:19:5-38
+		INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:18:1-46:12
+		INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:18:1-46:12
+		INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:22:5-60
+	android:name
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:22:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:23:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:25:22-68
+uses-feature#android.hardware.usb.host
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:26:5-62
+	android:name
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:26:19-59
+application
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:28:5-44:19
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/dylanlin/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/34580a84cfe90309a4a9970b180c984f/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/dylanlin/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/34580a84cfe90309a4a9970b180c984f/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.gulag.PeekAtBayntun.DetectorActivity
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:33:9-42:20
+	android:screenOrientation
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:34:19-56
+	android:label
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:35:19-66
+	android:name
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:33:19-74
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:37:17-90
+	android:name
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:37:25-87
+action#android.intent.action.MAIN
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:39:27-74
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:41:13-127
+	android:resource
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:41:87-124
+	android:name
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml:41:24-86
+uses-sdk
+INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/dylanlin/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/34580a84cfe90309a4a9970b180c984f/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/dylanlin/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-0.0.0-nightly.aar/34580a84cfe90309a4a9970b180c984f/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/AndroidManifest.xml

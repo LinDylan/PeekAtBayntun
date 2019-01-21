@@ -1,0 +1,102 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dylanlin/Desktop/PeekAtBayntun/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/res/values/base-strings.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "713,660",
+                        "endColumns": "67,52",
+                        "endOffsets": "776,708"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "465,533",
+                        "endColumns": "67,52",
+                        "endOffsets": "528,581"
+                    }
+                },
+                {
+                    "source": "/Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/res/values/template-styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "15,17,18,19,20,24",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "803,949,1009,1062,1089,1285",
+                        "endLines": "15,17,18,19,23,29",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "849,1004,1057,1084,1280,1558"
+                    }
+                },
+                {
+                    "source": "/Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "/Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "854",
+                        "endColumns": "94",
+                        "endOffsets": "944"
+                    }
+                },
+                {
+                    "source": "/Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/res/values/template-dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "110,180,223,267,312,355,397",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "175,218,262,307,350,392,460"
+                    }
+                },
+                {
+                    "source": "/Users/dylanlin/Desktop/PeekAtBayntun/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "12,13,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "586,669,719",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "664,714,798"
+                    }
+                }
+            ]
+        }
+    ]
+}
